@@ -1,6 +1,6 @@
 ---
 title:  PROBABILIDAD
-subtitle: Elementos de didáctica (1º y 2º ESO) <br> <br>  <br> 
+subtitle: Elementos de didáctica (1º y 2º ESO) <br> 
 
 author: <a href="http://personal.unizar.es/pbeltran/">Pablo Beltrán-Pellicer</a>  <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="40px" >  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px">
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/) (https://creativecommons.org/licenses/by-sa/4.0/legalcode.es)
@@ -16,7 +16,7 @@ rollingLinks: true
 
  ![](assets/qr.png) 
 
-[https://pbeltran.github.io/2019iceudl](https://pbeltran.github.io/2019iceudl)
+[https://pbeltran.github.io/elemprob1/](https://pbeltran.github.io/elemprob1/)
 
 
 
