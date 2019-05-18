@@ -121,7 +121,9 @@ Mejor que mundo, sería decir "sociedad". Estadística, etimología, estado.
 :::
 
 
-## Somos algoritmos: una lectura interesante
+## De hecho, somos algoritmos: 
+
+Una lectura interesante:
 
 :::::::::::::: {.columns}
 
@@ -191,7 +193,7 @@ Nosotros: de forma inconsciente, como el mono, o consciente.
 
 ![](assets/images/desmosstart.png) 
 
-[Enlace a la actividad](https://student.desmos.com/?prepopulateCode=mbays3)
+[Enlace a la actividad](https://student.desmos.com/?prepopulateCode=tfy64d)
 
 :::
 ::: {.column width="45%"}
