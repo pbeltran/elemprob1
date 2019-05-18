@@ -16,7 +16,7 @@ rollingLinks: true
 
  ![](assets/qr.png) 
 
-[https://pbeltran.github.io/elemprob1/](https://pbeltran.github.io/elemprob1/)
+[https://pbeltran.github.io/elemprob1](https://pbeltran.github.io/elemprob1)
 
 
 
@@ -55,6 +55,7 @@ Cuentas de Twitter que analizan gráficos erróneos en los medios o la forma de 
 \@numeroteca
 :::
 
+ 
 ## Casas de apuestas
 
 
@@ -120,9 +121,7 @@ Mejor que mundo, sería decir "sociedad". Estadística, etimología, estado.
 :::
 
 
-# Somos algoritmos
-
-## Una lectura interesante
+## Somos algoritmos: una lectura interesante
 
 :::::::::::::: {.columns}
 
@@ -181,6 +180,7 @@ Nosotros: de forma inconsciente, como el mono, o consciente.
 
 :::
 
+
 # ¿Fácil o difícil?
 
 ## Un mini estudio estadístico en Desmos
@@ -225,6 +225,199 @@ Nosotros: de forma inconsciente, como el mono, o consciente.
 Comentar los resultados sobre teacher.desmos.com
 
 :::
+
+##
+
+![](assets/images/meme1.jpg)
+
+# Una mirada rápida al currículo de 1º ESO
+
+
+
+## BLOQUE 5: Estadística y probabilidad
+
+**Contenidos**
+
+:::incremental
+
+- Población e individuo. Muestra. Variables estadísticas.
+- Variables cualitativas y cuantitativas.
+- Frecuencias absolutas y relativas.
+- Organización en tablas de datos recogidos en una experiencia. 
+- Diagramas de barras, y de sectores. Polígonos de frecuencias.
+- Medidas de tendencia central.
+- Fenómenos deterministas y aleatorios.
+- Sucesos elementales equiprobables y no equiprobables.
+- Espacio muestral en experimentos sencillos. Tablas y diagramas de árbol sencillos.
+- Cálculo de probabilidades mediante la regla de Laplace en experimentos sencillos.
+
+:::
+
+:::notes
+
+:::
+
+## BLOQUE 5: Estadística y probabilidad
+
+| Criterios de evaluación                                                                                                                                                                                                                                                                                                                                                                                                           |    CC   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------:|
+| Crit.MA.5.1. Formular preguntas adecuadas para conocer las características de interés de una población y recoger, organizar y presentar datos relevantes para responderlas, utilizando los métodos estadísticos apropiados y las herramientas adecuadas, organizando los datos en tablas y construyendo gráficas, calculando los parámetros relevantes y obteniendo conclusiones razonables a partir de los resultados obtenidos. |   CMCT  |
+| Crit.MA.5.2. Utilizar herramientas tecnológicas para organizar datos, generar gráficas estadísticas, calcular parámetros relevantes y comunicar los resultados obtenidos que respondan a las preguntas formuladas previamente sobre la situación estudiada.                                                                                                                                                                       | CMCT CD |
+| Crit.MA.5.3. Diferenciar los fenómenos deterministas de los aleatorios.                                                                                                                                                                                                                                                                                                                                                           | CMCT    |
+| Crit.MA.5.4. Inducir la noción de probabilidad como medida de incertidumbre asociada a los fenómenos aleatorios.                                                                                                                                                                                                                                                                                                                  | CMCT    |
+
+
+:::notes
+
+:::
+
+
+## BLOQUE 1: Procesos, métodos y actitudes en matemáticas
+
+**Contenidos**
+
+:::incremental
+
+- Planificación del proceso de resolución de problemas.
+- Estrategias y procedimientos puestos en práctica: uso del lenguaje apropiado (gráfico, numérico, algebraico, etc.), reformulación del problema, resolver subproblemas, recuento exhaustivo, empezar por casos particulares sencillos, buscar regularidades y leyes, etc.
+- Reflexión sobre los resultados: revisión de las operaciones utilizadas, asignación de unidades a los resultados, comprobación e interpretación de las soluciones en el contexto de la situación, búsqueda de otras formas de resolución, etc.
+- Planteamiento de investigaciones matemáticas escolares en contextos numéricos, geométricos, funcionales, estadísticos y probabilísticos. 
+- Práctica de los procesos de matematización y modelización, en contextos de la realidad y en contextos matemáticos. 
+
+:::
+
+:::notes
+
+:::
+
+
+## BLOQUE 1: ¡¡continuación!!
+
+**Contenidos**
+
+:::incremental
+
+- Confianza en las propias capacidades para desarrollar actitudes adecuadas y afrontar las dificultades propias del trabajo científico. 
+- Utilización de medios tecnológicos en el proceso de aprendizaje para: 
+	a.	la recogida ordenada y la organización de datos; 
+	b.	la elaboración y creación de representaciones gráficas de datos numéricos, funcionales o estadísticos; 
+	c.	facilitar la comprensión de propiedades geométricas o funcionales y la realización de cálculos de tipo numérico, algebraico o estadístico; 
+	d.	el diseño de simulaciones y la elaboración de predicciones sobre situaciones matemáticas diversas; 
+	e.	la elaboración de informes y documentos sobre los procesos llevados a cabo y los resultados y conclusiones obtenidos; 
+	f.	comunicar y compartir, en entornos apropiados, la información y las ideas matemáticas.
+
+
+:::
+
+:::notes
+
+:::
+
+## BLOQUE 1: criterios de evaluación
+
+| Criterios de evaluación                                                                                                                                                                                                                               |       CC      |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------:|
+| Crit.MA.1.1. Expresar verbalmente, de forma razonada el proceso seguido en la resolución de un problema.                                                                                                                                              |    CCL CMCT   |
+| Crit.MA.1.2. Utilizar procesos de razonamiento y estrategias de resolución de problemas, realizando los cálculos necesarios y comprobando las soluciones obtenidas.                                                                                   |  CCL CMCT CAA |
+| Crit.MA.1.3. Describir y analizar situaciones de cambio, para encontrar patrones, regularidades y leyes matemáticas, en contextos numéricos, geométricos, funcionales, estadísticos y probabilísticos, valorando su utilidad para hacer predicciones. |    CMCT CAA   |
+| Crit.MA.1.4. Profundizar en problemas resueltos planteando pequeñas variaciones en los datos, otras preguntas, otros contextos, etc.                                                                                                                  | CMCT CAA CIEE |
+
+## BLOQUE 1: criterios de evaluación 
+
+| Criterios de evaluación                                                                                                                                                                                                                                 |       CC      |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------:|
+| Crit.MA.1.5. Elaborar y presentar informes sobre el proceso, resultados y conclusiones obtenidas en los procesos de investigación.                                                                                                                      |    CCL CMCT   |
+| Crit.MA.1.6. Desarrollar procesos de matematización en contextos de la realidad cotidiana (numéricos, geométricos, funcionales, estadísticos o probabilísticos) a partir de la identificación de problemas en situaciones problemáticas de la realidad. |    CMCT CSC   |
+| Crit.MA.1.7. Valorar la modelización matemática como un recurso para resolver problemas de la realidad cotidiana, evaluando la eficacia y limitaciones de los modelos utilizados o construidos.                                                         |    CMCT CAA   |
+| Crit.MA.1.8. Desarrollar y cultivar las actitudes personales inherentes al quehacer matemático.                                                                                                                                                         | CMCT CAA CIEE |
+
+## BLOQUE 1: criterios de evaluación 
+
+| Criterios de evaluación                                                                                                                                                                                                                                                                                                                                                              |        CC       |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------:|
+| Crit.MA.1.9. Superar bloqueos e inseguridades ante la resolución de situaciones desconocidas.                                                                                                                                                                                                                                                                                        |     CMCT CAA    |
+| Crit.MA.1.10. Reflexionar sobre las decisiones tomadas, aprendiendo de ello para situaciones similares futuras.                                                                                                                                                                                                                                                                      |     CMCT CAA    |
+| Crit.MA.1.11. Emplear las herramientas tecnológicas adecuadas, de forma autónoma, realizando cálculos numéricos, algebraicos o estadísticos, haciendo representaciones gráficas, recreando situaciones matemáticas mediante simulaciones o analizando con sentido crítico situaciones diversas que ayuden a la comprensión de conceptos matemáticos o a la resolución de problemas.  |     CMCT CD     |
+
+
+## BLOQUE 1: criterios de evaluación 
+
+| Criterios de evaluación                                                                                                                                                                                                                                                                                                                                                              |        CC       |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------:|
+| Crit.MA.1.12. Utilizar las tecnologías de la información y la comunicación de modo habitual en el proceso de aprendizaje, buscando, analizando y seleccionando información relevante en Internet o en otras fuentes, elaborando documentos propios, haciendo exposiciones y argumentaciones de los mismos y compartiendo éstos en entornos apropiados para facilitar la interacción. |  CCL CMCT CD CAA |
+
+
+# ¿Y el currículo de 2º ESO?
+
+## BLOQUE 5: Estadística y probabilidad
+
+**Contenidos**
+
+:::incremental
+
+Todos los de 1º ESO y además:
+
+- Medidas de dispersión.
+- Formulación de conjeturas sobre el comportamiento de fenómenos aleatorios sencillos y diseño de experiencias para su comprobación.
+- Frecuencia relativa de un suceso y su aproximación a la probabilidad mediante la simulación o experimentación.
+
+
+:::
+
+:::notes
+
+Es prácticamente igual que el de primero, pero además, los puntos nuevos deberían abordarse sí o sí en 1º. La dispersión, al menos, informalmente.
+
+:::
+
+## Criterio de evaluación Crit.MA.5.1.
+
+Formular preguntas adecuadas para conocer las características de interés de una población y recoger, organizar y presentar datos relevantes para responderlas, utilizando los métodos estadísticos apropiados y las herramientas adecuadas, organizando los datos en tablas y construyendo gráficas, calculando los parámetros relevantes y obteniendo conclusiones razonables a partir de los resultados obtenidos. (CMCT)
+
+## Estándares del Crit.MA.5.1.
+
+- Est.MA.5.1.1. Define población, muestra e individuo desde el punto de vista de la estadística, y los aplica a casos concretos.
+- Est.MA.5.1.2. Reconoce y propone ejemplos de distintos tipos de variables estadísticas, tanto cualitativas como cuantitativas.
+- Est.MA.5.1.3. Organiza datos, obtenidos de una población, de variables cualitativas o cuantitativas en tablas, calcula sus frecuencias absolutas y relativas, y los representa gráficamente.
+- Est.MA.5.1.4. Calcula la media aritmética, la mediana (intervalo mediano), la moda (intervalo modal), y el rango, y los emplea para resolver problemas.
+- Est.MA.5.1.5. Interpreta gráficos estadísticos sencillos recogidos en medios de comunicación.
+
+
+## Criterio de evaluación Crit.MA.5.2.
+Utilizar herramientas tecnológicas para organizar datos, generar gráficas estadísticas, calcular parámetros relevantes y comunicar los resultados obtenidos que respondan a las preguntas formuladas previamente sobre la situación estudiada. (CMCT CD)
+
+## Estándares del Crit.MA.5.2.
+
+- Est.MA.5.2.1. Emplea la calculadora y herramientas tecnológicas para organizar datos, generar gráficos estadísticos y calcular las medidas de tendencia central y el rango de variables estadísticas cuantitativas.
+- Est.MA.5.2.2. Utiliza las tecnologías de la información y de la comunicación para comunicar información resumida y relevante sobre una variable estadística analizada.
+
+
+
+## Criterio de evaluación Crit.MA.5.3.
+Diferenciar los fenómenos deterministas de los aleatorios, valorando la posibilidad que ofrecen las matemáticas para analizar y hacer predicciones razonables acerca del comportamiento de los aleatorios a partir de las regularidades obtenidas al repetir un número significativo de veces la experiencia aleatoria, o el cálculo de su probabilidad. (CMCT)
+
+## Estándares del Crit.MA.5.3.
+
+- Est.MA.5.3.1 Identifica los experimentos aleatorios y los distingue de los deterministas.
+- Est.MA.5.3.2. Calcula la frecuencia relativa de un suceso mediante la experimentación.
+- Est.MA.5.3.3. Realiza predicciones sobre un fenómeno aleatorio a partir del cálculo exacto de su probabilidad o la aproximación de la misma mediante la experimentación.
+
+
+
+## Criterio de evaluación Crit.MA.5.4.
+Inducir la noción de probabilidad a partir del concepto de frecuencia relativa y como medida de incertidumbre asociada a los fenómenos aleatorios, sea o no posible la experimentación. (CMCT)
+
+
+## Estándares del Crit.MA.5.4.
+
+- Est.MA.5.4.1. Describe experimentos aleatorios sencillos y enumera todos los resultados posibles, apoyándose en tablas, recuentos o diagramas en árbol sencillos.
+- Est.MA.5.4.2. Distingue entre sucesos elementales equiprobables y no equiprobables.
+- Est.MA.5.4.3. Calcula la probabilidad de sucesos asociados a experimentos sencillos mediante la regla de Laplace, y la expresa en forma de fracción y como porcentaje.
+
+
+
+
+
 
 
 # Algunas orientaciones
@@ -326,6 +519,10 @@ Empresarios, aquí podríamos hablar de lo que es una visión utilitarista y otr
 ##
 
 >Abogamos por reestructurar este debate para preguntar, en cambio, cómo podemos diseñar problemas que sean lo suficientemente exigentes desde el punto de vista cognitiva, como para fomentar tanto el contenido matemático significativo como las competencias de resolución de problemas. Para empezar, podríamos considerar la redefinición de la resolución de problemas como una experiencia en la que el resolutor o un grupo cooperativo "necesita desarrollar una estrategia matemática más productiva de pensar sobre la situación dada" (Lesh y Zawojewski, 2007, p. 782).
+
+# Elementos de didáctica
+
+
 
 
 
@@ -727,7 +924,6 @@ Pensamiento computacional y toma de decisiones en el Far West.
 
 Tabú o juego de las palabras prohibidas.
 
-
 ![](assets/images/tabu0.png){ width=80% }
 
 Beltrán-Pellicer, P., Ricart, M., & Estrada, A. (2019). Una experiencia sobre el diseño de juegos como recurso para desarrollar la competencia didáctico-matemática en probabilidad con docentes de infantil y primaria. _Tercer Congreso Internacional Virtual de Educación Estadística_ (pp. 1-10). [Enlace](https://www.researchgate.net/publication/331435985_Una_experiencia_sobre_el_diseno_de_juegos_como_recurso_para_desarrollar_la_competencia_didactico-matematica_en_probabilidad_con_docentes_de_infantil_y_primaria)
@@ -819,7 +1015,7 @@ Miniproyecto estadístico para la toma de una decisión.
 ::: {.column width="45%"}
 
 - _Ayudar a los indecisos..._
-- Más orientado a primaria y primer ciclo de ESO.
+- Orientado a primaria y primer ciclo de ESO.
 
 :::
 
@@ -886,13 +1082,17 @@ Godino, J. D., Batanero, C., & Cañizares, M. J. (1987). _Azar y probabilidad_. 
 ##
 English, L. D., & Gainsburg, J. (2016). Problem Solving in a 21st-Century Mathematics Curriculum. En L.D. English, & D. Kirshner, _Handbook of international research in mathematics education_ (p. 326). New York: Routledge.
 
+Gallardo, S., Cañadas, M. C., Martínez-Santaolalla, M. J., & Molina, M. (2007). Jugando con la Probabilidad. [Enlace.](http://funes.uniandes.edu.co/1604/1/JugandoProbabilidad.pdf)
+
+Knizia, R. (2010). _Dice games properly explained_. Pacific Northwest: Blue Terrier Press.
+
 Vásquez, C., & Alsina, A. (2019). Conocimiento especializado del profesorado de educación básica para la enseñanza de la probabilidad. _Profesorado, Revista de Currículum y Formación Del Profesorado, 23_(1), 393-419. [Enlace.](https://doi.org/10.30827/profesorado.v23i1.9160)
 
 ## Créditos
 
 _Compartir el conocimiento de forma libre es una buena práctica._
 
-En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de la presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, citándome (Pablo Beltrán-Pellicer) y poniendo un enlace a [https://pbeltran.github.io/2019iceudl](https://pbeltran.github.io/2019iceudl). 
+En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de la presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, citándome (Pablo Beltrán-Pellicer) y poniendo un enlace a [https://pbeltran.github.io/elemprob1](https://pbeltran.github.io/elemprob1). 
 
 _Siéntete libre de trabajar con este material y de contactar conmigo para compartir tus reflexiones._
 
