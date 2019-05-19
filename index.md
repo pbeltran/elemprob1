@@ -87,7 +87,7 @@ Más: prevención de pseudociencias.
 
 ::: {.column width="55%"}
 
- ![](assets/images/mundstock.png) 
+ ![](assets/images/mundstock.jpg) 
 
 [Enlace al vídeo del \#CILE2019](https://www.youtube.com/watch?v=2NDxV3q-fEo)
 
@@ -607,6 +607,9 @@ Imagen: libro de Danielson (2016).
 | casi imposible          	| se espera que 	| incierto          	|
 | hay igual probabilidad  	| puede ser     	| sin duda          	|
 
+. . .
+
+Idea: actividad de ordenación en Desmos.
 
 ## Fenónemos atmosféricos y otros contextos
 
@@ -1055,7 +1058,7 @@ Ampliación de todo esto... [Enlace a mi blog.](http://www.tierradenumeros.com/2
 
 Primaria en adelante.
 
-![](assets/images/colt1.png){ width=80% }
+![](assets/images/colt1.jpg){ width=80% }
 
 
 ## Colt Express
