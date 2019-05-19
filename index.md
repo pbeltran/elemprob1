@@ -20,7 +20,6 @@ rollingLinks: true
 
 
 
-
 # ¿Por qué estadística y por qué probabilidad?
 
 ## Entre otras cosas...
@@ -182,6 +181,17 @@ Nosotros: de forma inconsciente, como el mono, o consciente.
 
 :::
 
+## Experimentos desde la psicología
+>Se presentan al alumno dos luces de color diferente (pueden ser rojo y verde) que se irán encendiendo intermitente y aleatoriamente con una determinada frecuencia, por
+ejemplo, el 70% y el 30%, respectivamente. El sujeto debe predecir cuál de las dos luces se encenderá la próxima vez.
+
+. . .
+
+- Los niños adaptan sus predicciones a las probabilidades de los sucesos-estímulo.
+- Los niños son capaces de apreciar las diferentes frecuencias relativas.
+- Esta predicción mejora con la edad
+
+
 
 # ¿Fácil o difícil?
 
@@ -189,14 +199,14 @@ Nosotros: de forma inconsciente, como el mono, o consciente.
 
 :::::::::::::: {.columns}
 
-::: {.column width="45%"}
+::: {.column width="40%"}
 
 ![](assets/images/desmosstart.png) 
 
 [Enlace a la actividad](https://student.desmos.com/?prepopulateCode=tfy64d)
 
 :::
-::: {.column width="45%"}
+::: {.column width="55%"}
  ![](assets/images/desmos1.png) 
  
  - Continue without signing in.
@@ -265,13 +275,18 @@ Comentar los resultados sobre teacher.desmos.com
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------:|
 | Crit.MA.5.1. Formular preguntas adecuadas para conocer las características de interés de una población y recoger, organizar y presentar datos relevantes para responderlas, utilizando los métodos estadísticos apropiados y las herramientas adecuadas, organizando los datos en tablas y construyendo gráficas, calculando los parámetros relevantes y obteniendo conclusiones razonables a partir de los resultados obtenidos. |   CMCT  |
 | Crit.MA.5.2. Utilizar herramientas tecnológicas para organizar datos, generar gráficas estadísticas, calcular parámetros relevantes y comunicar los resultados obtenidos que respondan a las preguntas formuladas previamente sobre la situación estudiada.                                                                                                                                                                       | CMCT CD |
-| Crit.MA.5.3. Diferenciar los fenómenos deterministas de los aleatorios.                                                                                                                                                                                                                                                                                                                                                           | CMCT    |
-| Crit.MA.5.4. Inducir la noción de probabilidad como medida de incertidumbre asociada a los fenómenos aleatorios.                                                                                                                                                                                                                                                                                                                  | CMCT    |
-
 
 :::notes
 
 :::
+
+## BLOQUE 5: Estadística y probabilidad
+
+| Criterios de evaluación                                                                                                                                                                                                                                                                                                                                                                                                           |    CC   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------:|
+| Crit.MA.5.3. Diferenciar los fenómenos deterministas de los aleatorios.                                                                                                                                                                                                                                                                                                                                                           | CMCT    |
+| Crit.MA.5.4. Inducir la noción de probabilidad como medida de incertidumbre asociada a los fenómenos aleatorios.                                                                                                                                                                                                                                                                                                                  | CMCT    |
+
 
 
 ## BLOQUE 1: Procesos, métodos y actitudes en matemáticas
@@ -283,8 +298,7 @@ Comentar los resultados sobre teacher.desmos.com
 - Planificación del proceso de resolución de problemas.
 - Estrategias y procedimientos puestos en práctica: uso del lenguaje apropiado (gráfico, numérico, algebraico, etc.), reformulación del problema, resolver subproblemas, recuento exhaustivo, empezar por casos particulares sencillos, buscar regularidades y leyes, etc.
 - Reflexión sobre los resultados: revisión de las operaciones utilizadas, asignación de unidades a los resultados, comprobación e interpretación de las soluciones en el contexto de la situación, búsqueda de otras formas de resolución, etc.
-- Planteamiento de investigaciones matemáticas escolares en contextos numéricos, geométricos, funcionales, estadísticos y probabilísticos. 
-- Práctica de los procesos de matematización y modelización, en contextos de la realidad y en contextos matemáticos. 
+ 
 
 :::
 
@@ -292,6 +306,13 @@ Comentar los resultados sobre teacher.desmos.com
 
 :::
 
+## BLOQUE 1: Procesos, métodos y actitudes en matemáticas
+
+**Contenidos**
+
+- Planteamiento de investigaciones matemáticas escolares en contextos numéricos, geométricos, funcionales, estadísticos y probabilísticos. 
+- Práctica de los procesos de matematización y modelización, en contextos de la realidad y en contextos matemáticos.
+- Confianza en las propias capacidades para desarrollar actitudes adecuadas y afrontar las dificultades propias del trabajo científico. 
 
 ## BLOQUE 1: ¡¡continuación!!
 
@@ -299,8 +320,8 @@ Comentar los resultados sobre teacher.desmos.com
 
 :::incremental
 
-- Confianza en las propias capacidades para desarrollar actitudes adecuadas y afrontar las dificultades propias del trabajo científico. 
-- Utilización de medios tecnológicos en el proceso de aprendizaje para: 
+
+- Utilización de medios tecnológicos para: 
 	a.	la recogida ordenada y la organización de datos; 
 	b.	la elaboración y creación de representaciones gráficas de datos numéricos, funcionales o estadísticos; 
 	c.	facilitar la comprensión de propiedades geométricas o funcionales y la realización de cálculos de tipo numérico, algebraico o estadístico; 
@@ -321,8 +342,17 @@ Comentar los resultados sobre teacher.desmos.com
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------:|
 | Crit.MA.1.1. Expresar verbalmente, de forma razonada el proceso seguido en la resolución de un problema.                                                                                                                                              |    CCL CMCT   |
 | Crit.MA.1.2. Utilizar procesos de razonamiento y estrategias de resolución de problemas, realizando los cálculos necesarios y comprobando las soluciones obtenidas.                                                                                   |  CCL CMCT CAA |
+
+
+## BLOQUE 1: criterios de evaluación
+
+| Criterios de evaluación                                                                                                                                                                                                                               |       CC      |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------:|
 | Crit.MA.1.3. Describir y analizar situaciones de cambio, para encontrar patrones, regularidades y leyes matemáticas, en contextos numéricos, geométricos, funcionales, estadísticos y probabilísticos, valorando su utilidad para hacer predicciones. |    CMCT CAA   |
 | Crit.MA.1.4. Profundizar en problemas resueltos planteando pequeñas variaciones en los datos, otras preguntas, otros contextos, etc.                                                                                                                  | CMCT CAA CIEE |
+
+
+
 
 ## BLOQUE 1: criterios de evaluación 
 
@@ -330,8 +360,16 @@ Comentar los resultados sobre teacher.desmos.com
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------:|
 | Crit.MA.1.5. Elaborar y presentar informes sobre el proceso, resultados y conclusiones obtenidas en los procesos de investigación.                                                                                                                      |    CCL CMCT   |
 | Crit.MA.1.6. Desarrollar procesos de matematización en contextos de la realidad cotidiana (numéricos, geométricos, funcionales, estadísticos o probabilísticos) a partir de la identificación de problemas en situaciones problemáticas de la realidad. |    CMCT CSC   |
+
+
+## BLOQUE 1: criterios de evaluación 
+
+| Criterios de evaluación                                                                                                                                                                                                                                 |       CC      |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------:|
 | Crit.MA.1.7. Valorar la modelización matemática como un recurso para resolver problemas de la realidad cotidiana, evaluando la eficacia y limitaciones de los modelos utilizados o construidos.                                                         |    CMCT CAA   |
 | Crit.MA.1.8. Desarrollar y cultivar las actitudes personales inherentes al quehacer matemático.                                                                                                                                                         | CMCT CAA CIEE |
+
+
 
 ## BLOQUE 1: criterios de evaluación 
 
