@@ -465,12 +465,12 @@ Inducir la noción de probabilidad a partir del concepto de frecuencia relativa 
 ## El azar diferencia este tipo de situaciones
 :::::::::::::: {.columns}
 
-::: {.column width="35%"}
+::: {.column width="25%"}
 
 ![](assets/images/toyhouse.png)
 
 :::
-::: {.column width="55%"}
+::: {.column width="65%"}
 
 :::incremental
 Como señalan [Batanero y Godino](https://www.ugr.es/~jgodino/edumat-maestros/manual/6_Estocastica.pdf)
