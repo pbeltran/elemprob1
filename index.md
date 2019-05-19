@@ -789,9 +789,21 @@ Alumnado de 2º, 3º y 4º de Primaria.
 - Aquí ya aparece de manera informal la idea de variabilidad y de distribución de probabilidad (informal). Si se quiere seguir por este camino... ver el juego de Beano.
 :::
 
+
+## Algo muy simple para resultados no equiprobables
+
+Con un clip y un boli
+
+![](assets/images/ruletaclip.jpg){ width=60%}
+
+## {data-background-image="assets/images/ruletaclip.jpg" data-background-opacity="0.18"}
+
+- Construye una ruleta con tres sucesos de manera que uno de ellos tenga más probabilidad de ocurrencia.
+- Construye una ruleta con tres sucesos de manera que uno de ellos tenga $1/4$ de probabilidad de ocurrencia.
+
+
 ## Con software de modelado en 3D
  
-
 :::::::::::::: {.columns}
 ::: {.column width="55%"}
  - Modelado e impresión 3D como recurso didáctico en el aprendizaje de la probabilidad.
@@ -860,16 +872,7 @@ Dado con las esquinas redondeadas (forma básica)
 
 ![](assets/images/dados-caixa.jpg)
 
-## Algo muy simple para resultados no equiprobables
 
-Con un clip y un boli
-
-![](assets/images/ruletaclip.jpg){ width=60%}
-
-## {data-background-image="assets/images/ruletaclip.jpg" data-background-opacity="0.18"}
-
-- Construye una ruleta con tres sucesos de manera que uno de ellos tenga más probabilidad de ocurrencia.
-- Construye una ruleta con tres sucesos de manera que uno de ellos tenga $1/4$ de probabilidad de ocurrencia.
 
 # Juegos y sorteos {data-background-image="assets/images/oca.jpg" data-background-opacity="0.18"}
 
