@@ -2,14 +2,14 @@
 title:  PROBABILIDAD
 subtitle: Elementos de didáctica (1º y 2º ESO) <br> Seminario "Didáctica de la matemática" <br> IES Pilar Lorengar <br>
 
-author: <a href="http://personal.unizar.es/pbeltran/">Pablo Beltrán-Pellicer</a>  <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="40px" >  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px">
+author: <a href="http://personal.unizar.es/pbeltran/">Pablo Beltrán-Pellicer</a>  <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="40px" >  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px"> <br> 20 de mayo de 2019
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/) (https://creativecommons.org/licenses/by-sa/4.0/legalcode.es)
 lang: es-ES
 rollingLinks: true
 
 ---
 
-# Acceso a la presentación
+# Acceso a la presentación {data-background-image="assets/images/dados.jpg" data-background-opacity="0.18"}
 
 ##
 
@@ -20,11 +20,11 @@ rollingLinks: true
 
 
 
-# ¿Por qué estadística y por qué probabilidad?
+# ¿Por qué estadística y por qué probabilidad? {data-background-image="assets/images/graficasdebates.png" data-background-opacity="0.18"}
 
 ## Entre otras cosas...
 
-El poder de los gráficos y de los datos
+>El poder de los gráficos y de los datos
 
 :::::::::::::: {.columns}
 
@@ -122,7 +122,7 @@ Mejor que mundo, sería decir "sociedad". Estadística, etimología, estado.
 
 ## De hecho, somos algoritmos: 
 
-Una lectura interesante:
+>Una lectura interesante
 
 :::::::::::::: {.columns}
 
@@ -149,7 +149,7 @@ Es historiador.
 :::
 
 
-## Una historia que cuenta Harari...
+## Una historia que cuenta Harari... {data-background-image="assets/images/leon.jpg" data-background-opacity="0.12"}
 
 
 >Un babuino ve unas bananas que cuelgan de un árbol, pero también se da cuenta de que un león acecha en las inmediaciones. ¿Debería el babuino arriesgar su vida por esas bananas?
@@ -164,7 +164,7 @@ La situación se reduce a un problema matemático de cálculo de probabilidades:
 
 :::
 
-## ¿Cómo resuelve el problema el mono?
+## ¿Cómo resuelve el problema el mono? {data-background-image="assets/images/leon.jpg" data-background-opacity="0.12"}
 
 El babuino necesita tener en cuenta muchos *datos*: 
 
@@ -182,6 +182,7 @@ Nosotros: de forma inconsciente, como el mono, o consciente.
 :::
 
 ## Experimentos desde la psicología
+
 >Se presentan al alumno dos luces de color diferente (pueden ser rojo y verde) que se irán encendiendo intermitente y aleatoriamente con una determinada frecuencia, por
 ejemplo, el 70% y el 30%, respectivamente. El sujeto debe predecir cuál de las dos luces se encenderá la próxima vez.
 
@@ -216,7 +217,7 @@ ejemplo, el 70% y el 30%, respectivamente. El sujeto debe predecir cuál de las 
 ::::::::::::::
 
 
-## Veamos
+## Veamos {data-background-image="assets/images/timeline.jpg" data-background-opacity="0.14"}
 
 ::: incremental
 
@@ -242,8 +243,7 @@ Comentar los resultados sobre teacher.desmos.com
 
 ![](assets/images/meme1.jpg)
 
-# Una mirada rápida al currículo de 1º ESO
-
+# Una mirada rápida al currículo de 1º ESO {data-background-image="assets/images/legislacion.jpg" data-background-opacity="0.15"}
 
 
 ## BLOQUE 5: Estadística y probabilidad
@@ -387,7 +387,7 @@ Comentar los resultados sobre teacher.desmos.com
 | Crit.MA.1.12. Utilizar las tecnologías de la información y la comunicación de modo habitual en el proceso de aprendizaje, buscando, analizando y seleccionando información relevante en Internet o en otras fuentes, elaborando documentos propios, haciendo exposiciones y argumentaciones de los mismos y compartiendo éstos en entornos apropiados para facilitar la interacción. |  CCL CMCT CD CAA |
 
 
-# ¿Y el currículo de 2º ESO?
+# ¿Y el currículo de 2º ESO? {data-background-image="assets/images/legislacion.jpg" data-background-opacity="0.15"}
 
 ## BLOQUE 5: Estadística y probabilidad
 
@@ -460,9 +460,10 @@ Inducir la noción de probabilidad a partir del concepto de frecuencia relativa 
 
 
 
-# Algunas orientaciones
+# Algunas orientaciones {data-background-image="assets/images/toyhouse.png" data-background-opacity="0.15"}
 
 ## El azar diferencia este tipo de situaciones
+
 :::::::::::::: {.columns}
 
 ::: {.column width="25%"}
@@ -491,9 +492,21 @@ Como señalan [Batanero y Godino](https://www.ugr.es/~jgodino/edumat-maestros/ma
 
 :::incremental
 - Organizar la recogida de datos de modo que se puedan contrastar las predicciones con lo obtenido y así los alumnos puedan revisar sus creencias.
-- Resaltar el carácter imprevisible de cada resultado aislado, así como la variabilidad de las pequeñas muestras, mediante la comparación de resultados de cada niño o por parejas.
-- Ayudar a apreciar el fenómeno de la convergencia mediante la acumulación de resultados de toda la clase y comparar la fiabilidad de pequeñas y grandes muestras.
+- Resaltar el carácter imprevisible de cada resultado aislado, así como la variabilidad de las pequeñas muestras, mediante la comparación de resultados.
+- Ayudar a apreciar el fenómeno de la convergencia y comparar la fiabilidad de pequeñas y grandes muestras.
 :::
+
+
+## 
+
+Algunos tipos de actividades que permiten articular todo esto:
+
+- Juegos y sorteos.
+- Experimentación y estimación frecuencial de probabilidades.
+- Construcción de dispositivos aleatorios.
+- Recursos en Internet.
+
+[Enlace a los materiales de Edumat](https://www.ugr.es/~jgodino/edumat-maestros/)
 
 ## No enseñes matemáticas a la manera "inteligente"
 
@@ -560,30 +573,73 @@ Empresarios, aquí podríamos hablar de lo que es una visión utilitarista y otr
 
 >Abogamos por reestructurar este debate para preguntar, en cambio, cómo podemos diseñar problemas que sean lo suficientemente exigentes desde el punto de vista cognitiva, como para fomentar tanto el contenido matemático significativo como las competencias de resolución de problemas. Para empezar, podríamos considerar la redefinición de la resolución de problemas como una experiencia en la que el resolutor o un grupo cooperativo "necesita desarrollar una estrategia matemática más productiva de pensar sobre la situación dada" (Lesh y Zawojewski, 2007, p. 782).
 
-# Elementos de didáctica
+
+
+# Lenguaje en probabilidad {data-background-image="assets/images/wodb_logo.jpg" data-background-opacity="0.15"}
+
+
+## WODB
+
+![](assets/images/wodb_logo.jpg){ width=50% }
+
+ [www.wodb.ca](https://wodb.ca/)
+ 
+Imagen: libro de Danielson (2016). 
+
+## Un ejemplo
+
+![](assets/images/wodb-numbers.jpg){ width=60% }
+
+##
+
+![](assets/images/hunter.jpg){ width=60% }
+
+(Hunter, 2018)
+
+## Vamos a ordenar palabras
+
+>Ordenar las siguientes palabras en función de la confianza en que suceda algo, de menor a mayor confianza. ¿Se te ocurren más palabras?
+
+|                         	|               	|                   	|
+|-------------------------	|---------------	|-------------------	|
+| cierto                  	| posible       	| bastante probable 	|
+| hay alguna probabilidad 	| seguro        	| es imposible      	|
+| casi imposible          	| se espera que 	| incierto          	|
+| hay igual probabilidad  	| puede ser     	| sin duda          	|
+
+
+## Fenónemos atmosféricos y otros contextos
+
+![](assets/images/aemet.png){ width=100% }
+
+Si al suceso seguro le asignamos el número $\frac{10}{10}=1$ y al suceso imposible, el número $\frac{0}{10}=0$, cómo graduaríamos las palabras anteriores en una escala del 1 al 10.
 
 
 
 
+## Más sobre lenguaje
 
-# Experimentación y estimación frecuencial de probabilidades
+En juegos veremos una adaptación de un juego muy conocido...
+
+
+# Experimentación y estimación frecuencial de probabilidades {data-background-image="assets/images/monedas.jpg" data-background-opacity="0.15"}
 
 ## 
+> Siguiendo las orientaciones ya mencionadas
 
 ::: incremental
 
 - Aquí los alumnos experimentan con dispositivos generadores de resultados aleatorios.
-- El profesor gestiona los momentos de la recogida de datos, la representación gráfica de los resultados y la discusión o puesta en común. 
+- El profesor gestiona los momentos de la recogida de datos, la representación gráfica de los resultados y la puesta en común. 
 - Se trata de animar a los alumnos a expresar sus creencias previas sobre los fenómenos aleatorios y a contrastarlas con los resultados experimentales. 
 - Son mini-proyectos estadísticos.
 
 :::
 
-. . .
 
-[Enlace a los materiales de Edumat](https://www.ugr.es/~jgodino/edumat-maestros/)
 
-#  Construcción de dispositivos aleatorios 
+
+#  Construcción de dispositivos aleatorios  {data-background-image="assets/images/sonobe2.jpg" data-background-opacity="0.15"}
 
 ## Construcción de dispositivos aleatorios 
 
@@ -658,8 +714,9 @@ Actividad tomada de Batanero y Godino (2003)
 
 :::::::::::::: {.columns}
 ::: {.column width="55%"}
-- Origami modular.
-- Conexión con la geometría.
+- Origami o papiroflexia modular.
+- Conexión con la geometría: ángulos, bisectrices, simetrías, etc.
+- Conexión con la proporcionalidad: ¿puedo averiguar de qué medida debo tomar el cuadrado para hacer un cubo de lado $x$ cm?
 :::
 
 ::: {.column width="35%"}
@@ -687,6 +744,50 @@ Alumnado de 2º, 3º y 4º de Primaria.
 
 :::::::::::::
 
+
+##
+
+
+:::::::::::::: {.columns}
+::: {.column width="45%"}
+![](assets/images/carrera1.jpg)
+:::
+
+::: {.column width="45%"}
+
+![](assets/images/carrera2.jpg)
+
+:::
+
+:::::::::::::
+
+##
+
+
+:::::::::::::: {.columns}
+::: {.column width="45%"}
+![](assets/images/carrera1.jpg)
+:::
+
+::: {.column width="45%"}
+
+- ¿Qué coche ha ganado en cada mesa?
+- ¿Cuál vas a elegir en la siguiente carrera? ¿Por qué?
+
+:::
+
+:::::::::::::
+
+## {data-background-image="assets/images/fondo1.jpg" data-background-opacity="0.18"}
+
+> Esta actividad enlaza con las siguientes:
+
+:::incremental
+- ¿ Cómo modificarías el dado para que ganara siempre el coche número 4?
+- Nuevo tablero: con dos dados, y coches del 1 al 12.
+- Diagrama de árbol para enumerar todos los casos posibles.
+- Aquí ya aparece de manera informal la idea de variabilidad y de distribución de probabilidad (informal). Si se quiere seguir por este camino... ver el juego de Beano.
+:::
 
 ## Con software de modelado en 3D
  
@@ -746,7 +847,7 @@ Dado con las esquinas redondeadas (forma básica)
 2. Un error similar se produce cuando en lugar de retirar material, se añade, con lo que se propicia que se mantenga sobre ciertas caras mayor masa que en otras. 
 3. No se tiene en cuenta que la suma de las puntuaciones de las caras debería sumar 7 para facilitar el equilibrado del dado (esto está relacionado con el error de tipo 2), como ocurre en los dados estándar.
 4. No se centran o alinean los puntos de cada cara, lo cual influye también en la distribución de masa del dado.
-5.  El dado no presenta las mismas dimensiones en todas sus caras. 
+5. El dado no presenta las mismas dimensiones en todas sus caras. 
 
 :::
 
@@ -763,13 +864,14 @@ Dado con las esquinas redondeadas (forma básica)
 
 Con un clip y un boli
 
-
 ![](assets/images/ruletaclip.jpg){ width=60%}
 
+## {data-background-image="assets/images/ruletaclip.jpg" data-background-opacity="0.18"}
 
+- Construye una ruleta con tres sucesos de manera que uno de ellos tenga más probabilidad de ocurrencia.
+- Construye una ruleta con tres sucesos de manera que uno de ellos tenga $1/4$ de probabilidad de ocurrencia.
 
-
-# Juegos y sorteos
+# Juegos y sorteos {data-background-image="assets/images/oca.jpg" data-background-opacity="0.18"}
 
 ## ¿En qué juego pensamos cuando pensamos en probabilidad?
 
@@ -996,13 +1098,9 @@ Producción de las participantes del Máster (2017/18).
 :::::::::::::
 
 
-::: notes
 
-Batanero en alguno de sus artículos menciona un juego similar, que consiste en alcanzar la orilla contraria. Gana el que pasa todas sus fichas.
 
-:::
-
-# Dibujos animados
+# Dibujos animados {data-background-image="assets/images/peg1.png" data-background-opacity="0.18"}
 
 ## El problema del mediodía
 
@@ -1068,11 +1166,17 @@ Miniproyecto estadístico para la toma de una decisión.
 ![](assets/images/cyber01.png){ width=60% }
 
 
-# Recursos en Internet
+# Recursos en Internet {data-background-image="assets/images/laptop.jpg" data-background-opacity="0.18"}
+
+## Los probs
+
+[Los probs (INE)](http://www.ine.es/explica/explica_juegos_probs.htm)
+ 
+ ![](assets/images/probs.png){width=90%}
 
 ## Simuladores de experimentos
 
-[Laboratorio básico de Azar, Probabilidad y Combinatoria](http://ntic.educacion.es/w3/eos/MaterialesEducativos/mem2010/labazar/index.html)
+[Laboratorio básico de azar, probabilidad y combinatoria](http://ntic.educacion.es/w3/eos/MaterialesEducativos/mem2010/labazar/index.html)
  
  ![](assets/images/laboazar.jpg){width=60%}
 
@@ -1082,7 +1186,24 @@ Miniproyecto estadístico para la toma de una decisión.
 
 ![](assets/images/desmoschance.png){width=80%}
 
-# Para terminar
+
+
+# Para terminar {data-background-image="assets/images/final.jpg" data-background-opacity="0.18"}
+
+## Una propuesta de secuencia
+
+::: incremental
+
+- Lenguaje de probabilidad.
+- Construcción de un dado mediante papiroflexia modular (relacionar con geometría y con proporcionalidad).
+- Juego de la carrera de coches con un dado.
+- Juego de la carrera de coches con dos dados.
+- Modificar dado para que salga siempre 4.
+- WODB de ruletas.
+- Desmos (chances).
+- Construcción de una ruleta.
+
+:::
 
 ## Esto va de oportunidades de aprendizaje
 
@@ -1117,7 +1238,13 @@ Beltrán-Pellicer, P. (2017). Una propuesta sobre probabilidad en educación inf
 
 Beltrán-Pellicer, P., Ricart, M., & Estrada, A. (2019). Una experiencia sobre el diseño de juegos como recurso para desarrollar la competencia didáctico-matemática en probabilidad con docentes de infantil y primaria. En J. M. Contreras, M. M. Gea, M. M. López-Martín, & E. Molina-Portillo (Eds.) _Actas del Tercer Congreso Internacional Virtual de Educación Estadística_ (pp. 1-10). [Enlace](https://www.researchgate.net/publication/331435985_Una_experiencia_sobre_el_diseno_de_juegos_como_recurso_para_desarrollar_la_competencia_didactico-matematica_en_probabilidad_con_docentes_de_infantil_y_primaria)
 
+Danielson, C. (2016). _Which One Doesn't Belong? A Shapes Book_. Stenhouse Publishers.
+
+##
+
 Godino, J. D., Batanero, C., & Cañizares, M. J. (1987). _Azar y probabilidad_. Madrid: Síntesis. 
+
+Hunter, C. (2018). Alike and Different: Which One Doesn’t Belong? and More. _Vector, 60_(1), 17–20. 
 
 ##
 English, L. D., & Gainsburg, J. (2016). Problem Solving in a 21st-Century Mathematics Curriculum. En L.D. English, & D. Kirshner, _Handbook of international research in mathematics education_ (p. 326). New York: Routledge.
@@ -1140,7 +1267,7 @@ _Siéntete libre de trabajar con este material y de contactar conmigo para compa
 
 Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>.
 
-Las imágenes son propias o de dominio público, salvo las que se ha citado la fuente en su diapositiva.
+Las imágenes son propias y de dominio público, salvo las que se ha citado la fuente en su diapositiva y las obtenidas en [https://www.freepik.es](www.Freepik.es) (<a href="https://www.freepik.es/fotos-vectores-gratis/fondo">dos dados: starline</a>, <a href="https://www.freepik.es/fotos-vectores-gratis/viajes">leones: bedneyimages</a>, <a href="https://www.freepik.es/fotos-vectores-gratis/negocios">laptop: jannoon028</a>, <a href="https://www.freepik.es/fotos-vectores-gratis/personas">legislación</a>, <a href="https://www.freepik.es/fotos-vectores-gratis/folleto">monedas: katemangostar</a>, <a href="https://www.freepik.es/fotos-vectores-gratis/negocios">pluma: ijeab</a>, <a href="https://www.freepik.es/fotos-vectores-gratis/fondo">fondo pensar: onlyyouqj</a>)
  
 
 
