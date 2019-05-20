@@ -615,7 +615,7 @@ Idea: actividad de ordenación en Desmos.
 
 ![](assets/images/aemet.png){ width=100% }
 
-Si al suceso seguro le asignamos el número $\frac{10}{10}=1$ y al suceso imposible, el número $\frac{0}{10}=0$, cómo graduaríamos las palabras anteriores en una escala del 1 al 10.
+Si al suceso seguro le asignamos el número $\frac{10}{10}=1$ y al suceso imposible, el número $\frac{0}{10}=0$, cómo graduaríamos las palabras anteriores en una escala del 0 al 1.
 
 
 
